@@ -1,0 +1,15 @@
+body{ 
+    font: 14px sans-serif; 
+    text-align: center; 
+    background: url('./assets/rainbow.jpg');
+}
+
+
+.wrapper{ 
+    width: 380px; 
+    padding: 20px; 
+    margin:0 auto; 
+    display: block; 
+    margin-top: 60px; 
+    background: #fff;
+}
